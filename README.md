@@ -3,7 +3,7 @@ This is a mostly complete toy version of a bot to buy Dogecoin when Elon tweets 
 
 You must have a `secrets.json` file with Binance and Twitter API Keys in the same directory as the main file with the following key/value pairs:
 
-```json:
+```json
 {
 "TwitterAPIKey" : <twitterapikey>,
 "TwitterAPISecret": <twitterapisecret>,
